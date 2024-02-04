@@ -1,3 +1,6 @@
-#### COMP2156 -- DevOps
-#### Ewelina M
-#### GitHub action CI/CD integration
+## COMP2156 -- DevOps
+Github action and node project example
+
+## References
+-- https://nodejs.org/en/download
+-- https://docs.github.com/en/actions/automating-builds-and-tests/building-and-testing-nodejs
